@@ -1,4 +1,4 @@
-def position_taken (board, index)
+def valid_move
   
   
   
