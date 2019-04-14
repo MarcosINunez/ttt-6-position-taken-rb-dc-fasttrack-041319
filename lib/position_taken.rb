@@ -1,4 +1,4 @@
-def position_taken (board, index)). to be (false)
+def position_taken (board, index)
   expected false 
   
   
