@@ -1,6 +1,6 @@
-def postion_taken(board, index)
+def postion_taken?(board, index)
   If((board[index] == ""||board[index] == " "))
-  return true
+  return false
 else
-  return False
+  return true
 end
